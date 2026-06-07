@@ -1,0 +1,6 @@
+map-polish-v0/.env.local
+map-polish-v0/deps-venv/
+map-polish-v0/__pycache__/
+map-polish-v0/**/*.pyc
+map-polish-v0/**/__pycache__/
+.pytest_cache/
